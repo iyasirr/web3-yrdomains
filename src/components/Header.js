@@ -1,5 +1,5 @@
 const Header = () => 
-<div style={{fontSize: 8, alignItems: 'center', justifyContent: 'center', display: 'flex',}}>
+<div style={{fontSize: 6, alignItems: 'center', justifyContent: 'center', display: 'flex',}}>
     
 <div style={{ backgroundColor: 'black',color: 'white', display: 'flex', justifyContent: 'center', borderRadius: 10, margin: 5, padding: 10}}>
     <h1>Contract Address 0x8259EE0261cDdBAe837FA4F142909242B30976bA</h1>
